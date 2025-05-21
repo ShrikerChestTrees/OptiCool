@@ -32,9 +32,6 @@ New editions may be completely different and you may not like it.
 
 </details>
 
-
-You won't be able to give issues yet but I'm working on it.
-
 ## **Русский**
 
 ### **???ГДЕ ОБНОВЛЕНИЯ???**
