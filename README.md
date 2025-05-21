@@ -5,6 +5,10 @@ ENG/РУС - Send to "Issues" problems and don't forget to mark the language e.g
 
 **OptiCool** is a modpack that has **improved optimization** and **support OptiFine features**! 
 
+
+<details>
+<summary>Optimization Comparison</summary>
+
 Let's compare OptiCool 1.0 B1 pre1 with [OptiFabric](https://modrinth.com/modpack/optifabric-modpack) and OptiFine (1.21.4)!
 
 Menu in 1.21.4 OptiFine
@@ -38,6 +42,10 @@ FPS with OptiCool 1.0 B1 pre1
 ![2025-05-21_21 35 59](https://github.com/user-attachments/assets/57390dec-f9b2-429e-9def-8fa27f9a6bbd)
 Why this result? Most likely because OptiCool uses optimized settings options that try to give the look of Minecraft on Fancy graphics although it's Fast and fixes the big lag issues from particles.
 
+</details>
+
+
+
 <details>
 <summary>Additional</summary>
 
@@ -62,9 +70,16 @@ New editions may be completely different and you may not like it.
 
 </details>
 
+
+If you have any problems send it to [OptiCool Issues](https://github.com/ShrikerChestTrees/OptiCool)
+
 ## **Русский**
 
 **OptiCool** - модпак с **улучшенной оптимизацией** и **поддержкой возможностей OptiFine**! 
+
+
+<details>
+<summary>Сравнение Оптимизации</summary>
 
 Давайте сравним OptiCool 1.0 B1 pre1 с [OptiFabric](https://modrinth.com/modpack/optifabric-modpack) и OptiFine (1.21.4)!
 
@@ -99,6 +114,10 @@ FPS с OptiCool 1.0 B1 pre1
 ![2025-05-21_21 35 59](https://github.com/user-attachments/assets/57390dec-f9b2-429e-9def-8fa27f9a6bbd)
 Почему такой результат? Скорее всего из-за того, что OptiCool использует оптимизированные варианты настроек, которые стараются придать вид Minecraft на Детальном графике, хотя это Быстрая и исправить большие проблемы с лагами от частиц.
 
+</details>
+
+
+
 <details>
 <summary>Дополнительно</summary>
 
@@ -122,3 +141,4 @@ FPS с OptiCool 1.0 B1 pre1
 Новые издания могут быть совершенно другими и вам это может не понравиться. 
 
 </details>
+
