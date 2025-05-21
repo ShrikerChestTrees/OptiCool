@@ -1,4 +1,4 @@
-# OptiCool
+# [OptiCool](https://modrinth.com/modpack/opticool)
 ENG/РУС - Send to "Issues" problems and don't forget to mark the language e.g.: "ENG PROBLEM 01"/Отправляйте в "Issues" проблемы, а также не забудьте подметить язык, например: "РУС ПРОБЛЕМА 01"
 
 ## **English**
