@@ -1,7 +1,9 @@
 # [OptiCool](https://modrinth.com/modpack/opticool)
 ENG/РУС - Send to "Issues" problems and don't forget to mark the language e.g.: "ENG PROBLEM 01"/Отправляйте в "Issues" проблемы, а также не забудьте подметить язык, например: "РУС ПРОБЛЕМА 01"
 
-## **English**
+
+<details>
+<summary>English</summary>
 
 **OptiCool** is a modpack that has **improved optimization** and **support OptiFine features**! 
 
@@ -70,10 +72,14 @@ New editions may be completely different and you may not like it.
 
 </details>
 
+</details>
 
-If you have any problems send it to [OptiCool Issues](https://github.com/ShrikerChestTrees/OptiCool)
 
-## **Русский**
+
+
+
+<details>
+<summary>Русский</summary>
 
 **OptiCool** - модпак с **улучшенной оптимизацией** и **поддержкой возможностей OptiFine**! 
 
@@ -141,4 +147,7 @@ FPS с OptiCool 1.0 B1 pre1
 Новые издания могут быть совершенно другими и вам это может не понравиться. 
 
 </details>
+
+</details>
+
 
