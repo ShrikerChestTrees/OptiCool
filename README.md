@@ -17,7 +17,6 @@ Menu in 1.21.4 OptiFine
 ![2025-05-21_17 12 43](https://github.com/user-attachments/assets/407805e0-3887-4356-b0c9-56f9b55ae59d)
 
 Menu in OptiFabric (Modpack)
-![2025-05-21_20 02 57](https://github.com/user-attachments/assets/290805ad-a6ba-4b8c-8696-b778412f19a1)
 ![2025-05-21_20 03 22](https://github.com/user-attachments/assets/aecc1faa-4c89-418a-afcd-6c7973a16617)
 ![2025-05-21_20 04 09](https://github.com/user-attachments/assets/518abcc3-d3ff-4b13-a05e-1539b14b7b18)
 ![2025-05-21_20 04 15](https://github.com/user-attachments/assets/919c5f7e-496a-4cf1-9737-7f71d51faa11)
@@ -31,6 +30,7 @@ Menu in OptiCool 1.0 B1 pre1
 As you've already noticed for yourself that OptiCool is inspired by old OptiFine parts...
 
 Now let's get to the most interesting part - FPS Testing!
+
 FPS with 1.21.4 OptiFine
 ![2025-05-21_21 04 42](https://github.com/user-attachments/assets/a2efdc3a-a2d6-4da2-b7b8-5a0129538de4)
 I had to put 12 chunks to have an accurate result.
@@ -89,7 +89,6 @@ If you have any problems send it to [OptiCool Issues](https://github.com/Shriker
 ![2025-05-21_17 12 43](https://github.com/user-attachments/assets/407805e0-3887-4356-b0c9-56f9b55ae59d)
 
 Меню в OptiFabric (Модпак)
-![2025-05-21_20 02 57](https://github.com/user-attachments/assets/290805ad-a6ba-4b8c-8696-b778412f19a1)
 ![2025-05-21_20 03 22](https://github.com/user-attachments/assets/aecc1faa-4c89-418a-afcd-6c7973a16617)
 ![2025-05-21_20 04 09](https://github.com/user-attachments/assets/518abcc3-d3ff-4b13-a05e-1539b14b7b18)
 ![2025-05-21_20 04 15](https://github.com/user-attachments/assets/919c5f7e-496a-4cf1-9737-7f71d51faa11)
@@ -103,6 +102,7 @@ If you have any problems send it to [OptiCool Issues](https://github.com/Shriker
 Как вы уже и сами заметили, что OptiCool вдохновляется старыми деталями OptiFine...
 
 Теперь перейдём к самому интересному - Тестирование FPS!
+
 FPS с 1.21.4 OptiFine
 ![2025-05-21_21 04 42](https://github.com/user-attachments/assets/a2efdc3a-a2d6-4da2-b7b8-5a0129538de4)
 Пришлось поставить 12 чанков, чтобы был результат точен.
