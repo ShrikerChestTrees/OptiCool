@@ -1,7 +1,7 @@
 name: Issue
 title: '[Issue] '
 description: Report an issue
-labels: ['type: issue/idea']
+labels: ['type: issue']
 
 body:
   - type: checkboxes
