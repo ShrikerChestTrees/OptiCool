@@ -1,0 +1,29 @@
+name: Idea
+title: '[Idea] '
+description: Report an idea
+labels: ['type: idea']
+
+body:
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: ⚠ Checklist
+      description: Before creating you should make sure that you have completed the following steps
+      options:
+        - label: I checked in [Issues](https://github.com/ShrikerChestTrees/OptiCool/issues)
+        - label: I have looked at all the changes in the latest version (pre versions count too)
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your idea
+      description: Description of the idea you have suggesting
+      placeholder: My idea is this (Можно и на русском)
+    validations:
+      required: true
+
+  - type: textarea
+    id: additions
+    attributes:
+      label: Additional
+      description: Is there anything else that is not on any of these lists?
