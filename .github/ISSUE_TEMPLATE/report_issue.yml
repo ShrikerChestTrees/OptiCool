@@ -1,6 +1,6 @@
-name: Issue/Idea
-title: '[Issue/Idea] '
-description: Report an issue/idea
+name: Issue
+title: '[Issue] '
+description: Report an issue
 labels: ['type: issue/idea']
 
 body:
@@ -17,8 +17,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Describe your issue/idea
-      description: Description of the issue/idea you have found/suggesting
+      label: Describe your issue
+      description: Description of the issue you have found.
       placeholder: My problem/idea is this (Можно и на русском)
     validations:
       required: true
@@ -27,7 +27,7 @@ body:
     id: version
     attributes:
       label: Version OptiCool
-      description: The version you found the problem on. (If that is the idea just skip it)
+      description: The version you found the problem on.
       placeholder: OptiCool
     validations:
       required: true
@@ -35,7 +35,7 @@ body:
   - type: textarea
     id: gpuandcpu
     attributes:
-      label: What GPU and CPU are you using? (If that is the idea just skip it)
+      label: What GPU and CPU are you using?
     validations:
       required: true
 
