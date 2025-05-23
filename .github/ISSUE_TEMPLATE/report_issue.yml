@@ -19,7 +19,7 @@ body:
     attributes:
       label: Describe your issue
       description: Description of the issue you have found.
-      placeholder: My problem/idea is this (Можно и на русском)
+      placeholder: My problem is this (Можно и на русском)
     validations:
       required: true
 
