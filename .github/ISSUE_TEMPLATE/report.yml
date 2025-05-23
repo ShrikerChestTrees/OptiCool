@@ -1,5 +1,6 @@
 name: Issue/Idea
 title: '[Issue/Idea] '
+description: Report an issue/idea
 labels: ['type: issue/idea']
 
 body:
