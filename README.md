@@ -63,14 +63,17 @@ There are **8 editions** (2 editions support both **Fabric** and **Quilt**) of O
 2. **Plus Edition** - **improved version of OptiCool** where **useful mods are added**!
 3. **NeoForge** Edition - OptiCool port on **NeoForge**.
 4. **NeoForge Plus Edition** - **OptiCool: Plus Edition** port on **NeoForge**.
-5. OptiCool **Beta 1.7.3** - OptiCool for **Beta 1.7.3 (Babric)**!
-6. **OptiCool Beta 1.7.3: Plus Edition** - **OptiCool: Plus Edition** for **Beta 1.7.3 (Babric)**!
+
+Non-updatable:
+1. OptiCool Beta 1.7.3 - OptiCool for Beta 1.7.3 (Babric) Reason: Not supporting json files.
+2. OptiCool Beta 1.7.3: Plus Edition - OptiCool: Plus Edition for Beta 1.7.3 (Babric) Reason: Not supporting json files.
 <details>
 <summary>Spoiler</summary>
 
 New editions may be completely different and you may not like it. 
 
 </details>
+
 
 </details>
 
@@ -139,14 +142,17 @@ FPS с OptiCool 1.0 B1 pre1
 2. **Plus Edition** - **улучшенная версия OptiCool** где **добавлены полезные моды**!
 3. **NeoForge** Edition - порт OptiCool на **NeoForge**.
 4. **NeoForge Plus Edition** - порт **OptiCool: Plus Edition** на **NeoForge**.
-5. OptiCool **Beta 1.7.3** - OptiCool для **Beta 1.7.3 (Babric)**!
-6. **OptiCool Beta 1.7.3: Plus Edition** - **OptiCool: Plus Edition** для **Beta 1.7.3 (Babric)**!
+
+Не обновляемые:
+1. OptiCool Beta 1.7.3 - OptiCool для Beta 1.7.3 (Babric) Причина: Не поддержка json файлов.
+2. OptiCool Beta 1.7.3: Plus Edition - OptiCool: Plus Edition для Beta 1.7.3 (Babric) Причина: Не поддержка json файлов.
 <details>
 <summary>Спойлер</summary>
 
 Новые издания могут быть совершенно другими и вам это может не понравиться. 
 
 </details>
+
 
 </details>
 
