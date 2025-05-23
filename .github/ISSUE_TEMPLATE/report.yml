@@ -26,7 +26,7 @@ body:
     id: version
     attributes:
       label: Version OptiCool
-      description: The version you found the problem on. (If that's the idea just skip it)
+      description: The version you found the problem on. (If that is the idea just skip it)
       placeholder: OptiCool
     validations:
       required: true
@@ -34,7 +34,7 @@ body:
   - type: textarea
     id: gpuandcpu
     attributes:
-      label: What GPU and CPU are you using? (If that's the idea just skip it)
+      label: What GPU and CPU are you using? (If that is the idea just skip it)
     validations:
       required: true
 
@@ -48,4 +48,4 @@ body:
     id: additions
     attributes:
       label: Additional
-      description: Is there anything else that isn't on any of these lists?
+      description: Is there anything else that is not on any of these lists?
