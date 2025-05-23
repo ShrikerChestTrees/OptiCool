@@ -32,7 +32,7 @@ body:
       required: true
 
   - type: textarea
-    id: gpu&cpu
+    id: gpuandcpu
     attributes:
       label: What GPU and CPU are you using? (If that's the idea just skip it)
     validations:
