@@ -11,6 +11,7 @@ body:
       description: Before creating you should make sure that you have completed the following steps
       options:
         - label: I checked in [Issues](https://github.com/ShrikerChestTrees/OptiCool/issues)
+        - label: I checked in [Wiki](https://github.com/ShrikerChestTrees/OptiCool/wiki/OptiCool-editions)
         - label: I have looked at all the changes in the latest version (pre versions count too)
 
   - type: textarea
