@@ -1,0 +1,27 @@
+plugins {
+    id 'net.fabricmc.fabric-loom-remap' version '1.16-SNAPSHOT'
+}
+
+version = project.mod_version
+group = 'com.opticool.f3'
+base { archivesName = "opticoolf3-${project.minecraft_version}-fabric" }
+
+dependencies {
+    minecraft "com.mojang:minecraft:${project.minecraft_version}"
+    mappings loom.officialMojangMappings()
+    modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
+    annotationProcessor "io.github.llamalad7:mixinextras-fabric:0.5.3"
+}
+
+processResources {
+    inputs.property 'version', project.version
+    inputs.property 'minecraft_version', project.minecraft_version
+    filesMatching('fabric.mod.json') {
+        expand 'version': project.version, 'minecraft_version': project.minecraft_version
+    }
+}
+
+tasks.withType(JavaCompile).configureEach { options.release = 21 }
+java {
+    withSourcesJar()
+}
