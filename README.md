@@ -157,3 +157,6 @@ FPS с OptiCool 1.0 B1 pre1
 </details>
 
 
+# CREDITS
+### MCVersionRenamer
+Version name on F3
