@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "com.opticool.f3.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["DebugScreenMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
