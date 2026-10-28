@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "opticoolf3",
+  "version": "${version}",
+  "name": "OptiCool F3",
+  "description": "Add OptiCool version in F3 (fork MCVersionRenamer for some versions)",
+  "authors": ["ShrikerChestTree"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": ["com.opticool.f3.OptiCoolF3Mod"]
+  },
+  "mixins": ["opticoolf3.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": ">=${minecraft_version}",
+    "java": ">=21"
+  }
+}
